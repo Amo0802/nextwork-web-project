@@ -18,4 +18,4 @@ The project focused on understanding and applying key AWS DevOps tools in a hand
 
 ## About the Project
 
-This was a guided DevOps project from [NextWork](https://learn.nextwork.org/app), focused on building a practical foundation in AWS CI/CD tools. All services were configured manually through the AWS console as part of the learning process.
+This was a guided DevOps project from [NextWork](https://learn.nextwork.org/projects/aws-devops-codepipeline-updated), focused on building a practical foundation in AWS CI/CD tools. All services were configured manually through the AWS console as part of the learning process.
